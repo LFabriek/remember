@@ -32,6 +32,15 @@ Nah
 translated by Your Name
 original in english
 
+nl
+Nederlands
+./nl.html
+Wil je naar de versie in het Nederlands?
+Ja!
+Nah
+Vertaald door <a href="https://github.com/lfabriek">Leo F.</a>
+original in English
+
 zh
 简体中文
 ./zh.html
